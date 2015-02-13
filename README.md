@@ -5,6 +5,11 @@
 
 <img src="http://madeofcode.s3.amazonaws.com/assets/production/9/medium.png" width="75%" />
 
+
+## Install
+
+`$ apm install made-of-code-atom`
+
 ---
 http://madeofcode.com/posts/29
 
