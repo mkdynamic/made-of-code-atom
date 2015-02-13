@@ -1,9 +1,9 @@
 {
-  "name": "Made of Code",
+  "name": "made-of-code-atom",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "",
-  "repository": "https://github.com/mkdynamic/made-of-code-tmbundle",
+  "description": "Made of Code Theme for Atom",
+  "repository": "https://github.com/mkdynamic/made-of-code-atom",
   "license": "",
   "engines": {
     "atom": ">0.50.0"
