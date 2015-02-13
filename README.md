@@ -3,7 +3,7 @@
 ### An Atom Theme
 
 
-<img src="http://madeofcode.s3.amazonaws.com/assets/production/9/medium.png" width="100%" />
+<img src="http://madeofcode.s3.amazonaws.com/assets/production/9/medium.png" width="75%" />
 
 ---
 http://madeofcode.com/posts/29
