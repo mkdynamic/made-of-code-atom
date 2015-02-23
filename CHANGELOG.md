@@ -1,5 +1,5 @@
 ## 0.2.2
-- Remove background colors from string syntax atom highlights text correctly
+- Remove background color from string syntax so that atom highlights text correctly
 
 ## 0.2.1
 - Update Readme:
